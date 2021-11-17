@@ -5,7 +5,7 @@ the rest money can be later used or can be returned to the
 group members.
 
 
-##Features
+# Features
 - Share money with the Group's Common wallet.
 - Transfer money to others.
 - Chatting with friends and family.
@@ -13,7 +13,7 @@ group members.
 - Share media with others.
 
 
-##Requirements
+# Requirements
   - Front end- React Js
   - Back end- Node Js
   - Database- MongoDB
