@@ -1,21 +1,41 @@
-# Peerlink
-In this web app users can form a group where the group
-people can store money in the group wallet and the expenditure can be done by group admin and 
-the rest money can be later used or can be returned to the
-group members.
+
+![Logo](https://direct-upload-bucket.s3.ap-south-1.amazonaws.com/PEERLINK+(7).png)
+
+# PeerLink
+
+This is a social chat application where people can chat with their friends and fam. 
+People can also form groups and share media files, 
+interact through audio and video calling and Transfer Money.
+
+People also can store money in the group wallet and the expenditure can be done
+by group admin and the rest money can be later used or can be returned to the group members.
 
 
-# Features
-- Share money with the Group's Common wallet.
-- Transfer money to others.
-- Chatting with friends and family.
-- Voice calling and Video calling.
-- Share media with others.
+## Features
+
+- Send and Receive Text Messages
+- Share Media Files
+- Make Audio and Video calls
+- Transfer Money to person or in Group wallet
+- Cross Platform
 
 
-# Requirements
-  - Front end- React Js
-  - Back end- Node Js
-  - Database- MongoDB
-  
+## Roadmap
+
+- Build a basic chat application
+- Implement a basic calculation system for group expenses
+- Improvement on features.
+- Start working on Money transfering feature
+- Cross Platform
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Node, Express
+
+**Database:** MongoDB
+
+**Cloud:** AWS
+
 
