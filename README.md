@@ -1,5 +1,5 @@
 
-![Logo](https://direct-upload-bucket.s3.ap-south-1.amazonaws.com/PEERLINK+(7).png)
+![Logo](https://direct-upload-bucket.s3.ap-south-1.amazonaws.com/PEERLINK_IMG_IV.png)
 
 # PeerLink
 
