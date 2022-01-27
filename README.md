@@ -1,5 +1,5 @@
 
-![Logo](https://direct-upload-bucket.s3.ap-south-1.amazonaws.com/PEERLINK+(7).png)
+![Logo](https://direct-upload-bucket.s3.ap-south-1.amazonaws.com/peerlink_image0.jpg)
 
 # PeerLink
 
@@ -11,7 +11,7 @@ People also can store money in the group wallet and the expenditure can be done
 by group admin and the rest money can be later used or can be returned to the group members.
 
 
-## Features
+## Features 🌟
 
 - Send and Receive Text Messages
 - Share Media Files
@@ -20,7 +20,7 @@ by group admin and the rest money can be later used or can be returned to the gr
 - Cross Platform
 
 
-## Roadmap
+## Roadmap 🐱‍👤
 
 - Build a basic chat application
 - Implement a basic calculation system for group expenses
@@ -28,7 +28,7 @@ by group admin and the rest money can be later used or can be returned to the gr
 - Start working on Money transfering feature
 - Cross Platform
 
-## Tech Stack
+## Tech Stack 👩‍💻
 
 **Client:** React
 
@@ -37,5 +37,16 @@ by group admin and the rest money can be later used or can be returned to the gr
 **Database:** MongoDB
 
 **Cloud:** AWS
+
+
+## Contributing 🌸
+
+Contributions are always welcome!
+
+⭐🌟 Diversion 2022 🌟⭐
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
 
 
