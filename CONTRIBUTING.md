@@ -4,7 +4,7 @@
 First off, thanks for taking the time to contribute! ❤️
 
 All types of contributions are encouraged and valued. 
-See the [Table of Contents](#table-of-contents) for different ways to help and details 
+See the [Table of Contents](#table-of-contents-📒) for different ways to help and details 
 about how this project handles them. Please make sure to read the relevant section before 
 making your contribution. It will make it a lot easier for us maintainers and smooth out 
 the experience for all involved. The community looks forward to your contributions. 🎉
@@ -12,17 +12,17 @@ the experience for all involved. The community looks forward to your contributio
 
 ## Table of Contents 📒
 
-- [Code of Conduct](#code-of-conduct)
-- [Have a Question](#have-a-question)
-- [How to Contribute](#how-to-contribute)
-    - [Getting Started with the Project](#getting-started-with-the-project)
-    - [Making a Pull Request](#making-a-pull-request)
-    - [Improving The Documentation](#improving-the-documentation)
-- [Other Ways to Support](#other-ways-to-support)
+- [Code of Conduct](#code-of-conduct-📝)
+- [Have a Question](#have-a-question-❓)
+- [How to Contribute](#how-to-contribute?-🎈)
+    - [Getting Started with the Project](#getting-started-with-the-project-⚙)
+    - [Making a Pull Request](#making-a-pull-request-📢)
+    - [Improving The Documentation](#improving-the-documentation-📓)
+- [Other Ways to Support](#other-ways-to-support-🙌)
 ## Code of Conduct 📝
 
 This project and everyone participating in it is governed by the
-[Peerlink Code of Conduct](blob/main/CODE_OF_CONDUCT.md).
+[Peerlink Code of Conduct](/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <contact.peerlink@gmail.com>
 ## Have a Question ❓
