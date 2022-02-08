@@ -3,6 +3,7 @@ import {BrowserRouter, Route,Routes,Switch} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Glassform from './components/Glassform';
 import Register from './components/Register';
+import Chat from './pages/Chat';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
     {/* <Navbar val="Login/Signup"/> */}
     <Routes>
 
-      <Route path="/chat" element={<><Navbar val="Login/Signup" /><h1>This is chat</h1></>} />
+      <Route path="/chat" element={<><Navbar/><Chat/></>} />
 
       <Route path="/" element={<><Navbar val="Login/Signup" /><h1>This is Home</h1></>} />
       <Route path="/about" element={<><Navbar val="Login/Signup" /><h1>This is About us</h1></>} />
